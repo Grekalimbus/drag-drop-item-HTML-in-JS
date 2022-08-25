@@ -48,7 +48,7 @@ body {
 
 .placeholder {
   width: 150px;
-  height: 66px;
+  height: 66px;  
   /* border: 1px solid #209cff; */
 }
 
@@ -62,4 +62,8 @@ body {
 
 .done {
   background: linear-gradient(90deg, #84fab0 0%, #8fd3f4 100%);
+}
+
+.hide{
+  display: none;
 }
